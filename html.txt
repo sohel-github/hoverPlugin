@@ -1,0 +1,5 @@
+<a href="#" class="abc" hoversrc="<?php echo base_url(); ?>asset/img/red.jpg">Red</a><br/>
+<a href="#" class="abc" hoversrc="<?php echo base_url(); ?>asset/img/green.jpg">Green</a><br/>
+<a href="#" class="abc" hoversrc="<?php echo base_url(); ?>asset/img/blue.jpg">Blue</a>
+
+<div id="feed"></div>
